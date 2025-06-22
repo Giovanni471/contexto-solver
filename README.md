@@ -46,5 +46,5 @@ While the default implementation uses OpenAI's models, the solver architecture i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/contexto_solver.git
+   git clone https://github.com/Giovanni471/contexto-solver.git
    cd contexto_solver
