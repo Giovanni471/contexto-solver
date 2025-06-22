@@ -59,7 +59,7 @@ def get_word_gpt() -> str:
         """
 
     response = client.responses.create(
-    model="gpt-4.1-mini-2025-04-14",
+    model="gpt-4.1-mini-2025-04-14", # Here you can change the llm as you like
     input=prompt
     )
 
