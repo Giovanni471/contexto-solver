@@ -33,7 +33,6 @@ While the default implementation uses OpenAI's models, the solver architecture i
 
 - **GPT-4**: Better semantic understanding and reasoning capabilities
 - **Claude**: Strong contextual awareness and systematic thinking
-- **Local LLMs**: For privacy-conscious users or offline functionality
 - **Specialized models**: Fine-tuned models could potentially achieve even better performance
 
 ## 📋 Requirements
