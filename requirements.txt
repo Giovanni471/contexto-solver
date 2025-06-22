@@ -1,0 +1,10 @@
+
+# HTTP requests library
+requests==2.31.0
+
+# OpenAI Python client library
+openai==1.35.0
+
+# Random word generation library
+wonderwords==2.2.0
+
